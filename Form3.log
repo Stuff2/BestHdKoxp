@@ -1,0 +1,17 @@
+Line 306: Class MSComctlLib.ListView of control lstKO was not a loaded control class.
+Line 688: Class MSComctlLib.ProgressBar of control pg was not a loaded control class.
+Line 312: The property name _ExtentX in lstKO is invalid.
+Line 313: The property name _ExtentY in lstKO is invalid.
+Line 314: The property name View in lstKO is invalid.
+Line 315: The property name LabelEdit in lstKO is invalid.
+Line 316: The property name LabelWrap in lstKO is invalid.
+Line 317: The property name HideSelection in lstKO is invalid.
+Line 318: The property name FullRowSelect in lstKO is invalid.
+Line 319: The property name GridLines in lstKO is invalid.
+Line 320: The property name _Version in lstKO is invalid.
+Line 334: The property name NumItems in lstKO is invalid.
+Line 338: The property name ColumnHeader(1) in lstKO is invalid.
+Line 694: The property name _ExtentX in pg is invalid.
+Line 695: The property name _ExtentY in pg is invalid.
+Line 696: The property name _Version in pg is invalid.
+Line 699: The property name Scrolling in pg is invalid.
